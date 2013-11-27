@@ -4,7 +4,7 @@ inherit cross gnome2
 
 NAME="mingw64-i686-libgnomecanvas2"
 VERSION=2.30.3
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="GNOME canvas widget library for Win32 toolchain"
 DESCRIPTION="The GNOME canvas is an engine for structured graphics that offers
